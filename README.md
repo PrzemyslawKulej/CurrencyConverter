@@ -14,10 +14,10 @@ Currency Converter is a command-line tool written in Rust, designed to enable us
 ## Features
 
 - Fetch real-time exchange rates from a free currency conversion API.
-- Accept three command-line arguments: source currency code, target currency code, and the amount to be converted.
+- Function to list all available currencies.
 - Calculate and display the converted amount in the target currency, including the exchange rate used for the conversion.
-- Handle common errors, such as network issues, invalid currency codes, or API request limits, gracefully.
-- Include a Dockerfile for easy testing and deployment within Docker environments.
+- An interactive interface guiding users through the currency conversion process.
+- Caching system providing better application performance.
 
 ## How to Build and Run
 
