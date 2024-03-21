@@ -34,9 +34,6 @@ Currency Converter is a command-line tool written in Rust, designed to enable us
 3. Running the Application:
 
 - Run the application using cargo run
-  Example:
-
-![Screen](https://imgur.com/rYKFgsb)
 
 ## Authors
 
